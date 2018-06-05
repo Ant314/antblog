@@ -1,2 +1,3 @@
-# antblog
-muj blogísek
+#DeleteGithub
+
+deleted because of MS acquisition
